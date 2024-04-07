@@ -1,0 +1,14 @@
+{
+  "ID": "${{GUID}}",
+  "ActionKeyword": "tp",
+  "Disabled": false,
+  "IsGlobal": false,
+  "Name": "${{AppName}}",
+  "Author": "",
+  "Version": "0.0.1",
+  "Language": "csharp",
+  "Website": "",
+  "ExecuteFileName": "Community.PowerToys.Run.Plugin.${{AppNameSafe}}.dll",
+  "IcoPathDark": "Images\\${{AppNameSafe}}.dark.png",
+  "IcoPathLight": "Images\\${{AppNameSafe}}.light.png"
+}
